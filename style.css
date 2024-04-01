@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+body{
+    background-color: #84E1AD;
+}
+main{
+    background-color: white;
+    margin:2%;
+    border-radius: 0.8%;
+    padding: 3px;
+    box-shadow: 5px 5px 15px rgba(140, 197, 140, 0.649);
+}
+h1#principal {
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    text-align: center;
+    font-weight:lighter;
+    
+}
+
+   .principal{
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    font-weight: lighter;
+    
+}
+h1{
+    color:#44795B
+
+}
+h2{
+    background-color:#e7f6ee94;
+    color: #44795B;
+    font-size: 1em;
+    text-indent: 2%;
+}
+h3{
+    background-color: #2FA866;
+    color: white;
+
+}
+
+p{
+    font: normal lighter  0.8em 'Verdana',sans-serif;
+    text-align: justify;
+    text-indent: 4%;
+}
+.android{
+    color: #44795B;
+    font-weight: bolder;
+}
+.Bugdroid{
+    color: #44795B;
+    font-weight: bolder;
+}
+
+.sistema{
+    color: #44795B;
+    font-weight: bolder;
+}
+
+.navegador{
+    color: #44795B;
+    font-weight: bolder;
+}
+
+.desenho{
+    color: #44795B;
+    font-weight: bolder;
+}
